@@ -8,7 +8,7 @@ The goal of this project is to create a secure architecture that enables resourc
 
 ## Architecture Diagram
 
-![Architecture Diagram]
+![Architecture Diagram]https://github.com/tuni56/remote_access_VPC/blob/main/DIAGRAM/aws_vpc_diagram.png
 
 
 ## Prerequisites
