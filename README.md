@@ -8,7 +8,7 @@ The goal of this project is to create a secure architecture that enables resourc
 
 ## Architecture Diagram
 
-![Architecture Diagram](diagram.png)
+![Architecture Diagram]
 
 
 ## Prerequisites
